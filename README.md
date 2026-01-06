@@ -1,1 +1,1 @@
-Praticando um pouco da linguagem C para fazer um codigo simples que consiga identificar letras maisculas e minisculas.
+Praticando um pouco da linguagem C para fazer um codigo simples que consiga identificar se o numero e uma Sequencia de Fibonacci e também outro codigo que identifica caso haja a letra A tanto maiscula ou minúscola em uma frase digitada.
